@@ -1,5 +1,7 @@
 # Variante italiana della tastiera Colemak
 
+![colemak-it-variant](keyboard-layout.png)
+
 Questa variazione del layout originale non fa altro che semplificare leggermente l'inserimento delle vocali accentate della lingua italiana.
 
 La versione originale prevede che `AltGr+vocale` restituisca la vocale con accento acuto.
