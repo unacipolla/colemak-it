@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Colemak variante Italiana</string>
+    <string name="keyboard_layout_italian_colemak_label">Stile Colemak variante Italana</string>
+    <string name="keyboard_layout_italian_colemak">Italiano, Colemak variante Italiana</string>
+</resources>

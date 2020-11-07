@@ -1,0 +1,1 @@
+# Layout per tastiere fisiche su Android
