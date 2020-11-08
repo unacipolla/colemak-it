@@ -23,9 +23,22 @@ Questa tastiera:
 
 ## Installazione
 
+### Windows
+
 Dato che io stesso non mi fido dei file trovati su internet a muzzo da installare nel sistema, ho messo a disposizione il file sorgente da importare in [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134) e possibilmente modificare a seconda delle proprie preferenze.
 
 Tra le [release](https://github.com/diblui/colemak-it/releases) è presente anche il file d'installazione già esportato con le mie modifiche.
+
+### Android
+Si può scegliere se compilare da sé l'apk dal codice sorgente nella sottocartella `android` oppure  
+
+Tra le [release](https://github.com/diblui/colemak-it/releases) si trova l'apk pronto da installare. 
+Una volta collegata la tastiera al dispositivo Android, basta andare nella sezione 
+> "Lingue" -> "Tastiera" -> "Tastiera fisica"  
+Scegliere la tastiera virtuale che si usa normalmente e selezionare il layout  
+`Italiano, Stile Colemak Internazionale`
+
+Il percorso non è lo stesso per tutti i dispositivi e cambia da marca a marca, quindi bisogna sforzarsi un attimino di cercare.
 
 ### Fine
 
